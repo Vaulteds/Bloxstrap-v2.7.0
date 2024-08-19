@@ -1,5 +1,3 @@
-> [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstrap.pizzaboxer.xyz](https://bloxstrap.pizzaboxer.xyz). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
